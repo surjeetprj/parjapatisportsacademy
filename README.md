@@ -4,9 +4,9 @@ E-Parjapati Sports Academy is the process whereby users directly buy courses, vi
 2. The admin interface allows for easy management of users, updates to course details, and handling of payments.
 
 ## Tech Stack
-Frontend: HTML, CSS, Bootstrap, JSP
-Backend: Java Servlets, JDBC
-Server: Apache Tomcat 8.0
-Database: MySQL 8.0
+* Frontend: HTML, CSS, Bootstrap, JSP
+* Backend: Java Servlets, JDBC
+* Server: Apache Tomcat 8.0
+* Database: MySQL 8.0
 
  
